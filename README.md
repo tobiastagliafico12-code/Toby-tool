@@ -17,6 +17,13 @@ Una potente herramienta de consola con interfaz interactiva que reúne utilidade
 * 🎨 Personalización Visual:
 ** Banner ASCII dinámico, animaciones de carga y 4 temas visuales interactivos (*Cyber Blue, Matrix Green, Blood Red, Purple Hacker*).
 
+# ⚡PREVIA:
+<p align="center">
+  <img src=Screenshot_20260625-213738.jpg width="400" alt="TOBU corriendo">
+</p>
+
+
+
 ## 🖐️REQUISITOS:
 TERMUX (emulador de terminal en android)
 y descargar phonenumbers y Python en este:
@@ -84,8 +91,5 @@ while true; do banner; echo -e "${AM}╔════════════╗$
 
 * ❗Las opciones del submenú de herramientas de IP "1", Pueden dejar de funcionar dependiendo de tu dispositivo.
 
-# ⚡PREVIA:
-<p align="center">
-  <img src=Screenshot_20260625-213738.jpg width="400" alt="TOBU corriendo">
-</p>
+
 
