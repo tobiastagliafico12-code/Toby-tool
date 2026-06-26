@@ -1,5 +1,5 @@
 
-# 🛠️ TOBY - Multi-Tool de Reconocimiento y Utilidades OSINT
+# 🛠️ TOBU - Multi-Tool de Reconocimiento y Utilidades OSINT
 Una potente herramienta de consola con interfaz interactiva que reúne utilidades de auditoría de red, recopilación de información (OSINT) y análisis de seguridad en un solo lugar.
 
 ## 🚀 Características Principales:
