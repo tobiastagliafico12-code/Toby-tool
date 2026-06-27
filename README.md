@@ -2,7 +2,13 @@
 # 🛠️ TOBU - Multi-Tool de Reconocimiento, Utilidades OSINT y mas
 Una potente herramienta de consola con interfaz interactiva que reúne utilidades de auditoría de red, recopilación de información (OSINT) y análisis de seguridad en un solo lugar.
 
-# [ ESTA ES LA VERSION DE PRUEBA, LA VERSION [PRO] HACE FUNCIONALES TODAS LAS OPCIONES.
+# [ ESTA ES LA VERSION DE PRUEBA ]
+### [ LA VERSION [*PRO*] ESTA A LA VENTA ]
+
+# ⚡PREVIA:
+<p align="center">
+  <img src=Screenshot_20260627-025600.jpg width="400" alt="TOBU corriendo">
+</p>
 
 ## 🚀 Características Principales:
 
@@ -19,10 +25,7 @@ Una potente herramienta de consola con interfaz interactiva que reúne utilidade
 * 🎨 Personalización Visual:
 ** Banner ASCII dinámico, animaciones de carga y 4 temas visuales interactivos (*Cyber Blue, Matrix Green, Blood Red, Purple Hacker*).
 
-# ⚡PREVIA:
-<p align="center">
-  <img src=Screenshot_20260625-213738.jpg width="400" alt="TOBU corriendo">
-</p>
+
 
 
 
@@ -139,13 +142,15 @@ esac;
 done
 ```
 * Tan solo es copiar y pegar el script en Termux.👌
-
+* puedes crear un archivo nano y ejecutarlo para si se te traba ✅
 # AVISOS Y RECOMENDACIONES SOBRE EL USO:
 * ❗Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
 
-* ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx
+* ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx [version pro]
 
-* ❗Las opciones del submenú de herramientas de IP "1", Pueden dejar de funcionar dependiendo de tu dispositivo.
+* ❗Esta es la version de PRUEBA, la version PRO esta en venta.
+
+  
 
 
 
