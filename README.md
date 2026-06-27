@@ -3,7 +3,7 @@
 Una potente herramienta de consola con interfaz interactiva que reúne utilidades de auditoría de red, recopilación de información (OSINT) y análisis de seguridad en un solo lugar.
 
 # [ ESTA ES LA VERSION DE PRUEBA ]
-### [ LA VERSION [*PRO*] ESTA A LA VENTA ]
+### [ LA VERSION [*PRO*] ESTA A LA VENTA POR DM ]
 
 # ⚡PREVIA:
 <p align="center">
@@ -25,13 +25,14 @@ Una potente herramienta de consola con interfaz interactiva que reúne utilidade
 * 🎨 Personalización Visual:
 ** Banner ASCII dinámico, animaciones de carga y 4 temas visuales interactivos (*Cyber Blue, Matrix Green, Blood Red, Purple Hacker*).
 
+* ♥️ Se va actualizando para obtener mejoras.
 
 
 
 
 ## 🖐️REQUISITOS:
 TERMUX (emulador de terminal en android)
-y descargar algunas cosas:
+y descargar algunas cosas (para la version de prueba y la PRO)
 ```bash 
 pkg update && pkg upgrade -y && pkg install bash python git curl wget jq -y && pip install requests -y
 pkg install pip
@@ -142,13 +143,13 @@ esac;
 done
 ```
 * Tan solo es copiar y pegar el script en Termux.👌
-* puedes crear un archivo nano y ejecutarlo para si se te traba ✅
+* puedes crear un archivo nano y ejecutarlo con bash si se te traba ✅
 # AVISOS Y RECOMENDACIONES SOBRE EL USO:
 * ❗Al seleccionar la opción "0": "SALIR", se cerrará automáticamente la herramienta y la app.
 
 * ❗Al colocar un número telefónico en la opcion "4", Le recomendamos que use un código de país, ejemplo: "+54"xxx [version pro]
 
-* ❗Esta es la version de PRUEBA, la version PRO esta en venta.
+* ❗Esta es la version de PRUEBA, la version PRO esta en venta (escribir al Dm si esta interesado)
 
   
 
